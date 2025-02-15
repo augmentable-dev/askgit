@@ -44,7 +44,7 @@ var exportCmd = &cobra.Command{
 			if e == 0 {
 				pairs[e] = export{exports[e], exports[e+1]}
 			} else {
-				pairs[e-1] = export{exports[e], exports[e+1]}
+				pairs[e/2] = export{exports[e], exports[e+1]}
 			}
 		}
 
