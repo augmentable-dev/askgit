@@ -25,7 +25,7 @@ require (
 	github.com/rs/zerolog v1.32.0
 	github.com/shurcooL/githubv4 v0.0.0-20240120211514-18a1ae0e79dc
 	github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.9.1
 	go.riyazali.net/sqlite v0.0.0-20221017074244-77a6464e0c2a
 	golang.org/x/mod v0.16.0
 	golang.org/x/oauth2 v0.18.0
@@ -71,7 +71,7 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/sergi/go-diff v1.3.1 // indirect
 	github.com/skeema/knownhosts v1.2.1 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.6 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.14.0 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
